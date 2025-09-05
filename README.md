@@ -1,5 +1,7 @@
-#Hi i am Kanishk Chandra Pawar
-| Analytics | | AI | Data Science | |Machine Learning | |Python | SQL | | Power BI | | Tableau |
+# 💫 About Me:
+Hi I am Kanishk Chandra Pawar<br><br>| Analytics | | AI | Data Science | |Machine Learning | |Python | SQL | | Power BI | | Tableau |
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-chandra-pawar-608b9a371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkchandrapawar28@gmail.com) 
 
