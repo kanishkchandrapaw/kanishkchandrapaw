@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi I am Kanishk Chandra Pawar<br><br>| Analytics | | AI | Data Science | |Machine Learning | |Python | SQL | | Power BI | | Tableau |
 
 
